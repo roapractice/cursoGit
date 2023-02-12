@@ -1,1 +1,1 @@
-# cursoGit
+# Este es para estudio  avanzado de Git

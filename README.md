@@ -1,3 +1,3 @@
 # Este es para estudio  avanzado de Git
 
-prueba
+Este curso es realizado para afianzar el uso de branches

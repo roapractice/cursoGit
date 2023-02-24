@@ -1,3 +1,3 @@
-# Este es para estudio  avanzado de Git
+# this a repo git
+For studying git branches
 
-Este curso es realizado para afianzar el uso de branches
